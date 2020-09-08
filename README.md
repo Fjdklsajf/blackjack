@@ -11,5 +11,5 @@ This project simulates the game of Blackjack against a bot. The code and user in
 
 #### Screenshots:
 ![Title Screen](https://github.com/Fjdklsajf/blackjack/blob/master/image/mainWindow.png?raw=true)
-![Title Screen](https://github.com/Fjdklsajf/blackjack/blob/master/image/gameWindow1.png?raw=true)
-![Title Screen](https://github.com/Fjdklsajf/blackjack/blob/master/image/gameWindow2.png?raw=true)
+![Game Screen 1](https://github.com/Fjdklsajf/blackjack/blob/master/image/gameWindow1.png?raw=true)
+![Game Screen 2](https://github.com/Fjdklsajf/blackjack/blob/master/image/gameWindow2.png?raw=true)
